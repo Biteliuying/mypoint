@@ -1,0 +1,2 @@
+# mypoint
+mypoint=&amp;i
